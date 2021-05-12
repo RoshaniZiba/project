@@ -162,7 +162,7 @@ body {
 }
 
 .st-panel{
-	background: #fff;
+	background: #cbd;
 	overflow: hidden;
 } 
 
@@ -418,11 +418,11 @@ body {
 	background: #fff;
 }
 .st-color h2 {
-	color: #fff;
+	color: #erd;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
 } 
 .st-color p {
-	color: #fff;
+	color: #edf;
 	color: rgba(255,255,255,0.8);
 }
 
