@@ -4,7 +4,7 @@
 - [PNU Repository](https://github.com/RoshaniZiba/PNU_3991_AR)
 - [Resume](https://RoshaniZiba.github.io/project/Resume/Index.html)
 - [SOP](https://RoshaniZiba.github.io/Project/SOP/Index.html)
-- [JS Certificate](https://RoshaniZiba.github.io/project/Certificate/JS%20Certificate.pdf)
+- [JS Certificate](https://RoshaniZiba.github.io/project/Certificate/cert-21687255-1024.pdf)
 - [Github Page](https://github.com/RoshaniZiba)
 
 
