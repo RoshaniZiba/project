@@ -5,9 +5,9 @@
 - [Resume](https://RoshaniZiba.github.io/project/Resume/Index.html)
 - [SOP](https://RoshaniZiba.github.io/project/SOP/Index.html)
 - [JS Certificate](https://RoshaniZiba.github.io/project/Certificate/cert-21687255-1024.pdf)
-- [Answer Software Engineering Test](https://RoshaniZiba.github.io/project/Certificate/cert-21687255-1024.pdf)
-- [Answer the methodology Test](https://RoshaniZiba.github.io/project/Certificate/algoritm-ziba roshani.pdf)
-- [Answer Advanced Algorithm Test](https://RoshaniZiba.github.io/project/Certificate/methodology-ziba Roshani.pdf)
+- [Answer Software engineering Test](https://RoshaniZiba.github.io/project/Certificate/softwarengineering.pdf)
+- [Answer Methodology Test](https://RoshaniZiba.github.io/project/Certificate/algoritm.pdf)
+- [Answer Advanced Algorithm Test](https://RoshaniZiba.github.io/project/Certificate/methodology.pdf)
 - [Github Page](https://github.com/RoshaniZiba)
 
 
